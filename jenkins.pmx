@@ -1,9 +1,9 @@
 ---
-name: Jenkins
-description: ''
+name: vjm/jenkins
+description: 'vjm/jenkins'
 keywords: jenkins
 type: Default
-documentation: ''
+documentation: 'vjm/jenkins'
 images:
 - name: jenkins_latest
   source: jenkins:latest
