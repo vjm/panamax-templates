@@ -1,0 +1,11 @@
+---
+name: Jenkins
+description: ''
+keywords: jenkins
+type: Default
+documentation: ''
+images:
+- name: jenkins_latest
+  source: jenkins:latest
+  category: Jenkins
+  type: Default
