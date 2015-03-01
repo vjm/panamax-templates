@@ -1,0 +1,10 @@
+---
+name: elk
+description: ''
+keywords: elk,elasticsearch
+type: Default
+documentation: ''
+images:
+- name: qnib_elk_latest
+  source: qnib/elk:latest
+  type: Default
