@@ -9,3 +9,11 @@ images:
   source: jenkins:latest
   category: Jenkins
   type: Default
+  expose:
+  - '8080'
+  - '50000'
+  ports:
+  - host_port: '8081'
+    container_port: '8080'
+  - host_port: '50000'
+    container_port: '50000'
